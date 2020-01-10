@@ -2,7 +2,7 @@
 
 所需環境：終端機即可
 
-安裝套件：vpython, numpy, random, shape.geometry, json, time
+安裝套件：vpython, numpy, random, shapely, json, time
 
 如何呈現Demo的結果：進入All Stimulation這個資料夾後，有四個資料夾，分別進入這四個資料夾執行Stimulation- 的檔案
 
