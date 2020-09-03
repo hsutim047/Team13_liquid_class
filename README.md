@@ -1,6 +1,6 @@
 # Team13_liquid_class
 
-所需環境：終端機即可
+所需環境：終端機
 
 安裝套件：vpython, numpy, random, shapely, json, time
 
